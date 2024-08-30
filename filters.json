@@ -1,0 +1,136 @@
+{
+  "filters": [
+    {
+      "title": "Categoria",
+      "componentId": 1,
+      "categories": [
+        {"id": 1, "name": "Imóveis (todos)"},
+        {"id": 2, "name": "Carro&Moto"},
+        {"id": 3, "name": "Tecnologia"},
+        {"id": 4, "name": "Móveis"},
+        {"id": 5, "name": "Eletrodomésticos"},
+        {"id": 6, "name": "Decoração"},
+        {"id": 7, "name": "Diversos"}
+      ]
+    },
+    {
+      "title": "Tipo de Imóvel",
+      "componentId": 1,
+      "categories": [
+        {"id": 1, "name": "Apartamento (todos)"},
+        {"id": 2, "name": "Cobertura"},
+        {"id": 3, "name": "Loft"},
+        {"id": 4, "name": "Kitnet"},
+        {"id": 5, "name": "Flat"},
+        {"id": 6, "name": "Casa (todos)"},
+        {"id": 7, "name": "Casa Térrea"},
+        {"id": 8, "name": "Sobrado"},
+        {"id": 9, "name": "Casa Geminada"},
+        {"id": 10, "name": "Duplex"},
+        {"id": 11, "name": "Terreno (todos)"},
+        {"id": 12, "name": "Terreno Urbano"},
+        {"id": 13, "name": "Terreno Em Condominio"},
+        {"id": 14, "name": "Comercial (todos)"},
+        {"id": 15, "name": "Loja"},
+        {"id": 16, "name": "Sala Comercial"},
+        {"id": 17, "name": "Conjunto Comercial"},
+        {"id": 18, "name": "Prédio Comercial"},
+        {"id": 19, "name": "Galpão"},
+        {"id": 20, "name": "Salão Comercial"},
+        {"id": 21, "name": "Sobreloja"},
+        {"id": 22, "name": "Rural (todos)"},
+        {"id": 23, "name": "Sítio"},
+        {"id": 24, "name": "Chácara"},
+        {"id": 25, "name": "Fazenda"},
+        {"id": 26, "name": "Terreno Rural"}
+      ]
+    },
+    {
+      "title": "Modalidade",
+      "componentId": 1,
+      "categories": [
+        {"id": 1, "name": "Leilão (todos)"},
+        {"id": 2, "name": "Leilão Judicial"},
+        {"id": 3, "name": "Leilão Extrajudicial"},
+        {"id": 4, "name": "Venda Direta"}
+      ]
+    },
+    {
+      "title": "Status",
+      "componentId": 1,
+      "categories": [
+        {"id": 1, "name": "EmPreparacao"},
+        {"id": 2, "name": "Prejudicado"},
+        {"id": 3, "name": "EmAndamento"},
+        {"id": 4, "name": "1Praca"},
+        {"id": 5, "name": "2Praca"},
+        {"id": 6, "name": "Arrematado"},
+        {"id": 7, "name": "Encerrado"}
+      ]
+    },
+    {
+      "title": "Conservação",
+      "componentId": 1,
+      "categories": [
+        {"id": 1, "name": "Novo"},
+        {"id": 2, "name": "Usado"},
+        {"id": 3, "name": "Reformado"},
+        {"id": 4, "name": "NaPlanta"},
+        {"id": 5, "name": "EmConstrução"}
+      ]
+    },
+    {
+      "title": "Banheiros",
+      "componentId": 2,
+      "notChosenValue": "indefinido",
+      "sumChange": 1,
+      "maxValue": 4,
+      "lastValue": "4+"
+    },
+    {
+      "title": "Vagas",
+      "componentId": 2,
+      "notChosenValue": "indefinido",
+      "sumChange": 1,
+      "maxValue": 4,
+      "lastValue": "4+"
+    },
+    {
+      "title": "Dormitórios",
+      "componentId": 2,
+      "notChosenValue": "indefinido",
+      "sumChange": 1,
+      "maxValue": 4,
+      "lastValue": "4+"
+    },
+    {
+      "title": "Preço",
+      "componentId": 3,
+      "minValue": 0,
+      "maxValue": 1000000000
+    },
+    {
+      "title": "Opcionais",
+      "componentId": 4,
+      "categories": [
+        {"id": 1, "name": "Pets"},
+        {"id": 2, "name": "Mobiliado"},
+        {"id": 3, "name": "Piscina"},
+        {"id": 4, "name": "Churrasqueira"},
+        {"id": 5, "name": "Academia"},
+        {"id": 6, "name": "Salão de Festas"},
+        {"id": 7, "name": "Parquinho"},
+        {"id": 8, "name": "Elevador"},
+        {"id": 9, "name": "Portaria 24h"},
+        {"id": 10, "name": "Ar Condicionado"},
+        {"id": 11, "name": "Varanda"},
+        {"id": 12, "name": "Varanda Gourmet"},
+        {"id": 13, "name": "Lareira"},
+        {"id": 14, "name": "Vista Mar"},
+        {"id": 15, "name": "Acessibilidade"},
+        {"id": 16, "name": "Imóvel Verde"},
+        {"id": 17, "name": "Em Condomínio"}
+      ]
+    }
+  ]
+}
